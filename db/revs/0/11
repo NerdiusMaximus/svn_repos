@@ -1,0 +1,123 @@
+PLAIN
+K 23
+CameraPositionerGui.fig
+V 21
+file 2-10.0.r10/18507
+K 21
+CameraPositionerGui.m
+V 21
+file 4-10.0.r10/18782
+K 16
+Example Data Set
+V 21
+dir 3-2.0.r6/48150995
+K 13
+coordImport.m
+V 21
+file 5-10.0.r10/18999
+K 13
+getAxes_MTL.m
+V 22
+file s-2.0.r2/22290554
+K 20
+getAxes_MTL_LEGACY.m
+V 22
+file w-2.0.r2/22290985
+K 4
+html
+V 17
+dir 2-7.0.r7/6609
+K 12
+importfile.m
+V 21
+file 6-10.0.r10/19203
+K 12
+meshImport.m
+V 21
+file 7-10.0.r10/19404
+K 14
+parser_f_MTL.m
+V 18
+file 10-2.0.r8/573
+K 20
+positioner_stl_MTL.m
+V 17
+file 14-2.0.r9/45
+K 22
+positioner_stl_MTL_2.m
+V 23
+file 18-2.0.r2/22292297
+K 22
+positioner_stl_MTL_3.m
+V 23
+file 1c-2.0.r2/22292744
+K 9
+stlread.m
+V 23
+file 1e-2.0.r2/22292967
+K 14
+targetImport.m
+V 21
+file 8-10.0.r10/19609
+END
+ENDREP
+id: 1-2.0.r11/742
+type: dir
+pred: 1-2.0.r10/20886
+count: 9
+text: 11 0 729 0 fd6dbf291215aea219e232ce858979d2
+cpath: /trunk/Camera_Positioner
+copyroot: 0 /
+
+PLAIN
+K 17
+Camera_Positioner
+V 17
+dir 1-2.0.r11/742
+END
+ENDREP
+id: 3-1.0.r11/961
+type: dir
+pred: 3-1.0.r10/21112
+count: 10
+text: 11 898 50 0 1615cfbe5aa53fb19baf8be3bf7f284f
+cpath: /trunk
+copyroot: 0 /
+
+PLAIN
+K 8
+branches
+V 14
+dir 0-1.0.r1/0
+K 4
+tags
+V 15
+dir 2-1.0.r1/66
+K 5
+trunk
+V 17
+dir 3-1.0.r11/961
+END
+ENDREP
+id: 0.0.r11/1214
+type: dir
+pred: 0.0.r10/21368
+count: 11
+text: 11 1101 100 0 77b4519125e6b8e480c11dac7263355c
+cpath: /
+copyroot: 0 /
+
+q-2.0.r2/22290343 delete-file false false /trunk/Camera_Positioner/getAxes_MTL.asv
+
+u-2.0.r2/22290765 delete-file false false /trunk/Camera_Positioner/getAxes_MTL_LEGACY.asv
+
+y-2.0.r2/22291203 delete-file false false /trunk/Camera_Positioner/parser_f_MTL.asv
+
+12-2.0.r2/22291631 delete-file false false /trunk/Camera_Positioner/positioner_stl_MTL.asv
+
+16-2.0.r2/22292073 delete-file false false /trunk/Camera_Positioner/positioner_stl_MTL_2.asv
+
+1a-2.0.r2/22292519 delete-file false false /trunk/Camera_Positioner/positioner_stl_MTL_3.asv
+
+
+1214 1348

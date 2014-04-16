@@ -1,0 +1,41 @@
+K 10
+svn:author
+V 4
+USER
+K 8
+svn:date
+V 27
+2014-04-16T22:41:36.237369Z
+K 7
+svn:log
+V 1007
+End of the day commit. The basic GUI works but the main things remaining to do are thus:
+
+Figure out how to share data between all of the callbacks efficiently
+
+Look for all the data to be entered somehow to trigger activation of the Choose Output Directory button, which when completed will activate the Parse Transformations Data button
+
+figure out how to plot a small preview of the meshes in the preview plot windows without crashing the computer.
+
+*****************************
+Correct Transformation Math!!
+*****************************
+
+Export Function to add all the directories and put the stl meshes in there
+
+Need to also filter data from teh start to delete any rows containing zeros in camera data
+
+Need to also figure out how to import the load cell data (not critical)
+
+Dialog box to tell the user what data is being processed as transforms are going on
+
+dialog box to pop up with either plot or a dialog to say the stuff has finished and is ready
+
+NYU Logo!
+
+Mathworks Logo
+
+Much to do... 
+
+
+END
